@@ -1,2 +1,2 @@
-# jho-api
+# JHO API
 REST API for JHO
